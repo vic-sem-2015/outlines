@@ -31,8 +31,7 @@ be an almost exhaustive list of insignificant details on a variety of
 subjects. Is it enough to say that they all simply signify reality or is
 there more to their inclusion?”
 
-#### Looking At the Inclusion of Facts --- Researching the Duke of
-Angouleme 
+#### Looking At the Inclusion of Facts --- Researching the Duke of Angouleme 
 
 > The librarian brought them general histories and pamphlets,
 along with a color lithograph depicting, in three-quarter view, His
@@ -68,8 +67,7 @@ this ridiculous. Is Flaubert trying to reveal a gap between the “real”
 in a novel, the “real” in theoretical, artistic, and historical sources,
 and what is truly “real”?
 
-#### Sturrock, “How Stupid People Are” --- Unpacking the Humor in
-*Bouvard et Pecuchet* 
+#### Sturrock, “How Stupid People Are” --- Unpacking the Humor in *Bouvard et Pecuchet* 
 
 >What makes Bouvard et Pécuchet at once more
 approachable and also more curious than the Tentation or Salammbô is
@@ -126,8 +124,7 @@ text? Does it inform how we read and interpret the text?
 
 [1:30]
 
-###Alli’s Close Reading - Separating Character, the Narrator, and the
-Author (If At All Possible) 
+###Alli’s Close Reading - Separating Character, the Narrator, and the Author (If At All Possible) 
 
 > Few historians have followed these rules –
 but always in the interests of a particular cause, religion, nation,
