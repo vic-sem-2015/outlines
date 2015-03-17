@@ -1,7 +1,10 @@
 #Discussion Outline March 16
 
-##“The Reality Effect” ####Sophie’s Criticism Summary > We concluded
-that his essay suggests that some objects seem to have no symbolic
+##“The Reality Effect” 
+
+####Sophie’s Criticism Summary 
+
+> We concluded that his essay suggests that some objects seem to have no symbolic
 meaning and are usually passed over by readers as being merely
 insignificant details. Barthes thinks, however, that these objects
 and/or details do, in fact, have a purpose. They are there to give
@@ -29,7 +32,9 @@ subjects. Is it enough to say that they all simply signify reality or is
 there more to their inclusion?”
 
 #### Looking At the Inclusion of Facts --- Researching the Duke of
-Angouleme > The librarian brought them general histories and pamphlets,
+Angouleme 
+
+> The librarian brought them general histories and pamphlets,
 along with a color lithograph depicting, in three-quarter view, His
 Lordship the Duke of Angouleme. The blue fabric of his uniform
 disappeared beneath his epaulettes, decorations, and the fat red sash of
@@ -64,7 +69,9 @@ in a novel, the “real” in theoretical, artistic, and historical sources,
 and what is truly “real”?
 
 #### Sturrock, “How Stupid People Are” --- Unpacking the Humor in
-*Bouvard et Pecuchet* >What makes Bouvard et Pécuchet at once more
+*Bouvard et Pecuchet* 
+
+>What makes Bouvard et Pécuchet at once more
 approachable and also more curious than the Tentation or Salammbô is
 that on this occasion, instead of simply drawing on his sources silently
 in the normal way, Flaubert gives some of them at least an actual
@@ -120,7 +127,9 @@ text? Does it inform how we read and interpret the text?
 [1:30]
 
 ###Alli’s Close Reading - Separating Character, the Narrator, and the
-Author (If At All Possible) > Few historians have followed these rules –
+Author (If At All Possible) 
+
+> Few historians have followed these rules –
 but always in the interests of a particular cause, religion, nation,
 party, or system, or to discredit a king, sway the populace, or offer a
 moral example
@@ -174,8 +183,9 @@ of truth?
 
 [2:00]
 
-###Barthes, “The Preparation of the Novel -- Emily’s Criticism Summary >
-He defines two key problems he wishes to solve through his analysis.
+###Barthes, “The Preparation of the Novel -- Emily’s Criticism Summary 
+
+>He defines two key problems he wishes to solve through his analysis.
 First, he states that notation “appears at the problematic intersection
 between a river of language… -- life, both a continuous, ongoing,
 sequenced text and a layered text, a histology of cut-up texts, a
@@ -275,38 +285,41 @@ in his dictionaries
 it, but it is named for Amerigo Vespucci. If not for the discovery of
 America, we wouldn’t have syphilis and Phylloxera. Praise it
 nonetheless, especially if one has never been there. Lecture people
-about self-government. + ART: Leads to the poorhouse. What good is it,
+about self-government. 
++ ART: Leads to the poorhouse. What good is it,
 since it is being replaced by mechanical processes that do the job
-better and faster? + BOOK: No matter which one, always too long. +
-CRUCIFIX: Looks good in an alcove and on the guillotine. + DARWIN: The
-fellow who said we were descended from apes. + DICTIONARY: Scoff at
-it—is only for ignoramuses. Rhyming dictionary: Use one? Disgraceful! +
-DIPLOMA: Sign of knowledge. Doesn’t prove a thing. + DOCTRINARIANS:
-Despise them. Why? No idea. + ERA (ours): Thunder against it. Complain
-that isn’t poetic. Call it a period of transition or decadence + FACE:
-Mirror of the soul. In which case, some people’s soul’s are mighty ugly
-+ GRAMMAR : Teach it to children from their earliest years as being
-something clear and easy. + HYGIENE : Must always be maintained.
-Prevents illnesses, except when it causes them. + IMAGINATION : Always
-vivid. Guard against it. When one has none, denigrate it in others. To
-write novels, all you need is a little imagination. + IMBECILES : Those
-who don’t think like you. + NOVELS : Pervert the masses. Are less
-immoral in serial form than in volumes. Only historical novels can be
+better and faster? + BOOK: No matter which one, always too long. 
++ CRUCIFIX: Looks good in an alcove and on the guillotine. 
++ DARWIN: The fellow who said we were descended from apes. 
++ DICTIONARY: Scoff at it—is only for ignoramuses. Rhyming dictionary: Use one? Disgraceful! 
++ DIPLOMA: Sign of knowledge. Doesn’t prove a thing. 
++ DOCTRINARIANS: Despise them. Why? No idea. 
++ ERA(ours): Thunder against it. Complain that isn’t poetic. Call it a period of transition or decadence 
++ FACE: Mirror of the soul. In which case, some people’s soul’s are mighty ugly
++ GRAMMAR: Teach it to children from their earliest years as being
+something clear and easy. 
++ HYGIENE: Must always be maintained. Prevents illnesses, except when it causes them. 
++ IMAGINATION: Always vivid. Guard against it. When one has none, denigrate it in others. To
+write novels, all you need is a little imagination. 
++ IMBECILES: Those who don’t think like you. 
++ NOVELS: Pervert the masses. Are less immoral in serial form than in volumes. Only historical novels can be
 tolerated, because at least they teach history. Some novels are written
-with the point of a scalpel; others rest on the tip of a needle. +
-PATIENT : To make a patient feel better, laugh at his illness and deny
-his suffering. + POETRY : Is utterly useless. Out of fashion. + PRINTED
-: One should believe everything that is printed. Seeing one’s name in
-print! There are people who commit crimes solely for that reason. +
-SCIENCE : A little science leads you away from religion, a lot of it
-brings you back. + SERIAL NOVELS : Cause of demoralization. Argue about
-the probable outcome. Write to the author to suggest ideas. Fury at
-finding a character with your name. + SPELLING : Believe in it like
-geometry. Is not necessary when one has style. + STOCK MARKET :
-Barometer of public opinion.
+with the point of a scalpel; others rest on the tip of a needle. 
++ PATIENT: To make a patient feel better, laugh at his illness and deny
+his suffering. 
++ POETRY: Is utterly useless. Out of fashion. 
++ PRINTED: One should believe everything that is printed. Seeing one’s name in
+print! There are people who commit crimes solely for that reason.
++ SCIENCE: A little science leads you away from religion, a lot of it
+brings you back. 
++ SERIAL NOVELS: Cause of demoralization. Argue about the probable outcome. Write to the author to suggest ideas. Fury at
+finding a character with your name. 
++ SPELLING: Believe in it like geometry. Is not necessary when one has style. 
++ STOCK MARKET: Barometer of public opinion.
 
-###Deborah’s Seminar Paper > Given the extent of resources Flaubert
-uses, however, this paper will focus on the “Dictionary of Accepted
+###Deborah’s Seminar Paper 
+
+> Given the extent of resources Flaubert uses, however, this paper will focus on the “Dictionary of Accepted
 Ideas” as a form of preparation discernable in the novel—particularly
 the entry on “science” and how it appears in Bouvard and Pécuchet—and
 will consider how Flaubert “transition[s] from the fragment to the
@@ -353,8 +366,9 @@ provide lifelike depictions and a complete illusion to the two gentlemen
 
 + Does the novel spring from the *Dictionary of Accepted Ideas*? Should
 we read this as his philosophy of life or literature? Is it just another
-compilation of facts that he inserts into a larger project? + Can we
-speculate, from Flaubert’s chapter outlines and the concluding chapters
+compilation of facts that he inserts into a larger project? 
+
++ Can we speculate, from Flaubert’s chapter outlines and the concluding chapters
 of the books and Deborah’s paper, how he makes the transition from
 research to plot outlines to the novel? Can we connect this to Barthes’s
 theory of novel writing?
@@ -362,6 +376,7 @@ theory of novel writing?
 [3:15]
 
 #### Untangling Theories and Facts, Past and Present, Truth and Fiction
+
 > Does our idiom contain definite and indefinite articles, as in Latin?
 Some say yes, others no. They didn’t dare decide. The verb must always
 agree with the subject, except in instances when the verb does not
@@ -413,9 +428,9 @@ memory?
 
 ###End of class - let’s talk SHS paper
 
-+ At some point we need to talk Barsetshire
++ At some point we need to talk Barsetshire Project
 
-+ Check out our research doc for Geoff’s link to Amazon reviews of B + P
++ Check out our research doc for Geoff’s link to Amazon reviews of (B + P)[http://www.amazon.com/review/RZOHCGG5ZHO49/ref=cm_cr_dp_cmt?ie=UTF8&ASIN=1564783936&channel=detail-glance&nodeID=283155&store=books#wasThisHelpful] - he's added some excerpts in the Week 9 research doc. 
 
 + Of possible interest: a Lady Audley’s Secret competition from the
 ICVWW: http://ladyaudleysecret.com/
