@@ -31,7 +31,7 @@ After completing your reading of Book II, you and your partner present the epigr
 What have we learned? Contextualize this exercise with the scholarly work on epigraphs we have read. 
 
 ## Extra credit
-Create a remixed *Middlemarch* by replacing all of the Eliot-written and Eliot-selected epigraphs with your own. Extra points for using only texts published after *Middlemarch* or excerpts from *Middlemarch* itself. Extra points if you invent a name for your remix a la Tom Phillips’s (Humument)[http://www.tomphillips.co.uk/humument].
+Create a remixed *Middlemarch* by replacing all of the Eliot-written and Eliot-selected epigraphs with your own. Extra points for using only texts published after *Middlemarch* or excerpts from *Middlemarch* itself. Extra points if you invent a name for your remix a la Tom Phillips’s [Humument](http://www.tomphillips.co.uk/humument).
 
 [1]: Rachel Sagner Buurma (professor), Sophie Diamond, Allison Schultes, Geoffrey Shepard, Emily Sullivan, and Deborah Yu.
 
